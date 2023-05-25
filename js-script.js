@@ -14,7 +14,7 @@ container.appendChild(para);
 
 const mod = document.createElement('div');
 mod.classList.add('mod');
-mod.setAttribute('style', 'border-color: black; background: pink;');   
+mod.setAttribute('style', 'border-style: solid ;border-color: black; background: pink;');   
 
 const imp_text = document.createElement('h1');
 imp_text.textContent = 'I\'m in a div';
